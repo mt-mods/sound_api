@@ -1,3 +1,5 @@
+now a part of https://github.com/mt-mods/xcompat, no longer supported
+
 # Sound API
 
 mod that enables sound to be game agnostic
